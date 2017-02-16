@@ -68,16 +68,14 @@ a{
     display: block;
 }
 #nav{
-    
     display: none;
 }
 #nav:hover{
+    position: absolute;
     display: block;
     background: rgba(0,0,0, 0.8);
     height: 105vh;
     width:  30%;
-    
-    
 }
 #show{
     position:   fixed;
